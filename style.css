@@ -1,0 +1,40 @@
+.heading{
+    background-color: rgb(100, 100, 235);
+    color: rgba(32, 2, 36, 0.404);
+    margin-top: 0px;
+    box-shadow: 2px 2px 40px pink;
+    width: 100%;
+    font-weight: bold;
+    font-size: 30px;
+}
+.note{
+    font-size: 14px;
+    color: white;
+    letter-spacing: 1px;
+}
+
+body{
+    background-size: cover;
+}
+
+img{
+    width: 200px;
+    border-radius: 100px;
+}
+
+.button1{
+    background-color: purple;
+    color: whitesmoke;
+    height: 50px;
+    width: 150px;
+    font-size: 25px;
+    border-color: antiquewhite;
+}
+
+canvas{
+    border-radius: 100px;
+    border-width: 3px;
+    border-color: antiquewhite;
+    box-shadow: 2px 2px 40px violet;
+    margin-top: 20px;
+}
